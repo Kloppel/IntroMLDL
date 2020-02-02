@@ -38,4 +38,8 @@ Sonntag:
 
 
 
+Ab jetzt:
+
+-Hyperparameter Gedanken aufschreiben
+-Lange laufen lassen
 
