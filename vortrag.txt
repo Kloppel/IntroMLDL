@@ -1,0 +1,41 @@
+15-20 slides
+
+20 minutes vortrag + 10-15 minutes discussion
+|-> oder andersherum
+
+jupyter slides
+
+
+korrelation varianz
+-> volitility vorhersagen
+
+point cloud netzwerk
+
+
+input 5 verschiedene Autohersteller -> output sechster  hersteller
+
+
+
+
+Sonntag:
+-größere Inputs
+-datensätze nach branche sortieren
+-volatility datensatz bauen
+-branchen einteilung (one-hot encoding) √
+-
+
+
+-RNN
+-CNN
+-Classification über position von stocks
+-Münze
+
+
+-Ertrag von top5 Vorhersagen
+--> indexes = findmax(y_pred,5) 
+--> mean(y_real[indexes]) vs mean(y_real)
+-Slides
+
+
+
+
